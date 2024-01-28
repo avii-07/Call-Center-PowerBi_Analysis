@@ -1,9 +1,22 @@
 # Call-Center-Power-Bi-Analysis
 
 # Introduction 
-<br>
 In this project, I have done the analysis on the call center dataset. For the analysis, I write 5 KPIs, created charts, filters and finally created interactive Power Bi report.
 <br>
-The call centers are situated in four cities and these centers have four mediums to listen and solve customer's queries i.e. Calls, Chatbot, E-mail and Web. Sentiments(experience of the call) data of the customers are also there for the analysis with the date and reason of the call.
+# Processes I have done
+Getting the data  <br>
+ <br>
+Data Cleaning  <br>
+Data Modelling <br>
+Data Processing <br>
+Using Power Query <br>
+Creating date table <br>
+Creating Key Performance Indicators(KPIs)  <br>
+DAX  <br>
+Interactive Charts  <br>
+Using Filters <br>
+Functions <br>
+Navigation <br>
+
 
 
